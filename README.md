@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on improving my skills
+- 🔭 I’m currently working on boosting my skills to become a better developer
 - 🌱 I’m currently learning REACT
 - <!--
 - 👯 I’m looking to collaborate on ...
